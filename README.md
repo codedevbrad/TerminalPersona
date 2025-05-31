@@ -38,13 +38,11 @@ Welcome to your custom **PowerShell terminal persona system** — a fully animat
 
 ---
 
-## 🔧 Custom Commands
 
 <div align="center">
 
+<h1> 🔧 Custom Commands </h1> 
 💡 Use these commands to interact with your persona terminal setup.
-
-</div>
 
 | Command                      | Description                                      |
 |------------------------------|--------------------------------------------------|
@@ -55,6 +53,7 @@ Welcome to your custom **PowerShell terminal persona system** — a fully animat
 | `notepad $PROFILE`           | Edit your PowerShell profile                     |
 | `code $projectPath`          | Launch Visual Studio Code at a project path      |
 
+</div>
 ---
 
 <div align="center">
