@@ -21,7 +21,6 @@ Welcome to your custom **PowerShell terminal persona system** — a fully animat
   </ul>
 </div>
 
-
 ---
 
 <div align="center">
@@ -38,7 +37,6 @@ Welcome to your custom **PowerShell terminal persona system** — a fully animat
 
 ---
 
-
 <div align="center">
 
 <h1> 🔧 Custom Commands </h1> 
@@ -54,10 +52,29 @@ Welcome to your custom **PowerShell terminal persona system** — a fully animat
 | `code $projectPath`          | Launch Visual Studio Code at a project path      |
 
 </div>
+
+---
+
+<div align="center">
+  
+<h1> ✅ TODO</h1>
+
+> Improve developer onboarding and command isolation.
+
+- [ ] 📥 **Easy Installer Script**: Provide a setup script to install dependencies and clone/setup the terminal repo.
+- [ ] 📂 **Project Path Config**: Add clear instructions or a prompt system to define `$projectPath` for each persona.
+- [ ] 🧠 **Command Isolation**: Refactor `Boot-Into` and `ChangePersona` to be **persona-scoped** (each persona script has its own).
+- [ ] 📘 **Usage Docs**: Include example `.ps1` files for each persona and a walkthrough in the README.
+
+</div>
+
 ---
 
 <div align="center">
 
 🧠 Now go build... or destroy.
+
+</div>
+
 
 </div>
