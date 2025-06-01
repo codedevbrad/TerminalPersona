@@ -49,7 +49,6 @@ Welcome to your custom **PowerShell terminal persona system** — a fully animat
 | `Boot-Into "bootcamp"`       | Launch the Coding Bootcamp project               |
 | `Boot-Into "projectb"`       | Launch Project B                                 |
 | `notepad $PROFILE`           | Edit your PowerShell profile                     |
-| `code $projectPath`          | Launch Visual Studio Code at a project path      |
 
 </div>
 
@@ -65,6 +64,8 @@ Welcome to your custom **PowerShell terminal persona system** — a fully animat
 - [ ] 📂 **Project Path Config**: Add clear instructions or a prompt system to define `$projectPath` for each persona.
 - [ ] 🧠 **Command Isolation**: Refactor `Boot-Into` and `ChangePersona` to be **persona-scoped** (each persona script has its own).
 - [ ] 📘 **Usage Docs**: Include example `.ps1` files for each persona and a walkthrough in the README.
+- [ ] - **Feature implementation**
+    -  [ ] Boot-Into opens vscode but ideally I want to CD into that directory from the terminal too. 
 
 </div>
 
